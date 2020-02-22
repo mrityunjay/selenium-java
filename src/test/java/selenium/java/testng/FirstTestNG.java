@@ -16,6 +16,7 @@ public class FirstTestNG {
 	@BeforeTest
 	public void beforeTest() {
 		System.out.println("I am running before test");
+		System.out.println("I want to add this line to git");
 	}
 	
 	//global variable
