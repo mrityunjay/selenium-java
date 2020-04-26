@@ -1,0 +1,2 @@
+Read this file using java code
+Thank you for reading
