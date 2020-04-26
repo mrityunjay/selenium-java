@@ -1,0 +1,8 @@
+Feature: Enter the Student info to University website
+Scenario:  Automate Request info
+Given the university site url "https://asuonline.asu.edu/"
+When I open the website
+And Click on Request Info button
+Then Fill up the Get Started Today section
+And Click on Continue button
+Then Save the form data to excelFile
